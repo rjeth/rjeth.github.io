@@ -1,0 +1,54 @@
+@media screen and (min-width: 701px) {
+    #fv .slide li.s1 .pic {
+      background-image: url("../../../uploads/2019/winshade-website/winshade_website_pc.jpg");
+    }
+
+    #fv .slide li.s2 .pic {
+      background-image: url("../../../uploads/2019/winfurniture-website/winfurniture_website_pc.jpg");
+    }
+
+    #fv .slide li.s3 .pic {
+      background-image: url("../../../uploads/2019/isd-monitoring-system/isd_monitoring_system_pc.jpg");
+    }
+    
+    #index .block.works a .pic {
+      background-image: url("../../../uploads/2019/isd-monitoring-system/isd_monitoring_system_pc.jpg");
+    }
+
+    #index .block.profile a .pic {
+      background-image: url("../../../assets/img/home.jpg");
+    }
+
+    #index .block.contact a .pic {
+      background-image: url("../../../android-chrome-512x512.png");
+    }
+
+
+  }
+
+  @media screen and (max-width: 700px) {
+    #fv .slide li.s1 .pic {
+      background-image: url("../../../uploads/2019/winshade-website/winshade_website_sp.jpg");
+    }
+
+    #fv .slide li.s2 .pic {
+      background-image: url("../../../uploads/2019/winfurniture-website/winfurniture_website_sp.jpg");
+    }
+
+    #fv .slide li.s3 .pic {
+      background-image: url("../../../uploads/2019/isd-monitoring-system/isd_monitoring_system_sp.jpg");
+    }
+
+    #index .block.works a .pic {
+      background-image: url("../../../uploads/2019/isd-monitoring-system/isd_monitoring_system_sp.jpg");
+    }
+
+    #index .block.profile a .pic {
+      background-image: url("../../../assets/img/home.jpg");
+    }
+
+    #index .block.contact a .pic {
+      background-image: url("../../../android-chrome-512x512.png");
+    }
+
+  }
