@@ -284,7 +284,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/assets/js/vendor.bundle.js"
   },
   {
-    "revision": "7beab1cc56f2844a6b93",
+    "revision": "23c8aeed9aefb8e7ccfb",
     "url": "/css/app.b44bc9b5.css"
   },
   {
@@ -308,7 +308,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/profile.d30a29d6.png"
   },
   {
-    "revision": "259c03bc051f727693b6257296afc4fb",
+    "revision": "34bd95650807f8d89bdc4d058740e4d2",
     "url": "/index.html"
   },
   {
@@ -320,8 +320,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jethrojorolan.pdf"
   },
   {
-    "revision": "7beab1cc56f2844a6b93",
-    "url": "/js/app.9bba14ea.js"
+    "revision": "23c8aeed9aefb8e7ccfb",
+    "url": "/js/app.25b7619e.js"
   },
   {
     "revision": "6506eca9dad17f1986a0",
@@ -392,8 +392,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-2d221862.4e60cb4a.js"
   },
   {
-    "revision": "775662470b9d047d25bc",
-    "url": "/js/chunk-31cfa92e.71682b23.js"
+    "revision": "ddc5a84cd10c6d824efb",
+    "url": "/js/chunk-31cfa92e.33abe8ba.js"
   },
   {
     "revision": "6d2f4f9384c3c69c0794",
